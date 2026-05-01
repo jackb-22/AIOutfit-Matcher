@@ -107,7 +107,7 @@ tifffile==2026.4.11
 tokenizers==0.22.2
 toml==0.10.2
 torch>=2.0.0
-torchvision==0.26.0+cpu
+torchvision>=0.15.0
 tqdm==4.67.3
 transformers==5.7.0
 typer==0.25.0
